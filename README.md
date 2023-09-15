@@ -20,19 +20,18 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/soundx-code/nodejs-typescript-graphql-mongodb-boilerplate.git
    ```
 
 2. Install the dependencies:
 
    ```bash
-   cd your-repo-name
    npm install
    ```
 
 3. Configure the environment variables:
    - Create a `.env` file in the project root.
-   - Add the necessary environment variables (e.g., database connection string, API keys, etc.) to the `.env` file.
+   - Add the necessary environment variables (e.g., database connection string, etc.) to the `.env` file.
 
 4. Start the development server:
 
